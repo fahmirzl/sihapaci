@@ -4,6 +4,8 @@
 
 ![SiHaPaCi](sihapaci.png)
 
+---
+
 ## 🔧 Fitur Utama
 
 - 📊 Tampilkan harga harian komoditas pangan
@@ -11,6 +13,8 @@
 - 🔎 Fitur pencarian & filter
 - 🧑‍🌾 Akses mudah untuk masyarakat umum
 - 📱 Desain responsif (mobile-friendly)
+
+---
 
 ## 🚀 Instalasi
 
