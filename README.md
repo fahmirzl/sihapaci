@@ -19,7 +19,8 @@ git clone https://github.com/fahmirzl/sihapaci.git
 cd sihapaci
 # pindahkan folder ini ke direktori web server (misalnya /htdocs atau /www)
 # pastikan web server (XAMPP/Laragon/dll) sudah aktif
-# sesuaikan port jika perlu (misalnya http://localhost:8080/sihapaci/)```
+# sesuaikan port jika perlu (misalnya http://localhost:8080/sihapaci/)
+```
 
 ---
 
