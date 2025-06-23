@@ -19,3 +19,9 @@ git clone https://github.com/fahmirzl/sihapaci.git
 cd sihapaci
 # pindahkan ke /htdocs
 buka port webserver (disesuaikan)
+
+---
+
+## ✨ Kontribusi
+
+Pull request terbuka untuk perbaikan bug, dokumentasi, atau fitur tambahan.
