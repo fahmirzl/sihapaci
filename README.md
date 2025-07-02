@@ -1,6 +1,6 @@
 # 🌾 SiHaPaCi - Sistem Informasi Harga Pangan Cimahi
 
-**SiHaPaCi** (Sistem Informasi Harga Pangan Kota Cimahi) adalah platform untuk memantau harga pangan.
+**SiHaPaCi** (Sistem Informasi Harga Pangan Kota Cimahi) adalah platform untuk memantau harga pangan di Kota Cimahi.
 
 ![SiHaPaCi](sihapaci.png)
 
